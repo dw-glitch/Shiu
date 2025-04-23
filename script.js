@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded', function() {
     // Data de início do relacionamento - ajustado para a data correta
-    const startDate = new Date('2023-10-19'); // Formato: AAAA-MM-DD
+    const startDate = new Date('2024-10-19'); // Formato: AAAA-MM-DD
     
     const envelope = document.getElementById('envelope');
     const message = document.getElementById('message');
